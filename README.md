@@ -1,6 +1,9 @@
 # Digital-lock-with-VHDL
+
 Coding platform: Vivado2017
+
 Development board: Nexys4 DDR FPGA Board
+
 Functions:
   1. including 6 states(original state, user state, admin state, unlock state, alarm state, error state)
   2. The user enters the password no more than 3 times and it turns into alarm state otherwise. 
